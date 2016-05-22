@@ -1,5 +1,11 @@
 # Skyser_robot v0.5
-My common repository
 
-Arduino rule the world
-edited version 0.1
+code for Arduino controled robot with autonoumos mode.
+
+onboard hardware:
+odometry
+ultrsonic sensor
+ir-sensor
+light sensor
+sound module
+
